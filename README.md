@@ -1,7 +1,7 @@
 # Phyton-code
 Phyton code for automation at SAP GUI
 
-# Este código é um EXEMPLO EDUCACIONAL.
+# Este código é um EXEMPLO.
     Valores reais de chaves, arquivos e sessões foram removidos
     para permitir publicação segura no GitHub.
 
